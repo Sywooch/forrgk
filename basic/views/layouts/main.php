@@ -46,7 +46,7 @@ AppAsset::register($this);
 
     $items_list[] = ['label' => 'Главная', 'url' => ['/site/index']];
     $items_list[] = Yii::$app->user->isGuest ? (
-    ['label' => 'Войти в систему', 'url' => ['/site/login']]
+    ['label' => 'Войти в систему', 'url' => ['/']]
     ) : (
         '<li>'
         . Html::beginForm(['/site/logout'], 'post', ['class' => 'navbar-form'])

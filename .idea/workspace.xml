@@ -21,7 +21,53 @@
     <favorites_list name="forrgk.loc" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="m160817_231431_deployment.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/basic/migrations/m160817_231431_deployment.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-19.416666">
+              <caret line="186" column="8" selection-start-line="186" selection-start-column="8" selection-end-line="186" selection-end-column="8" />
+              <folding>
+                <marker date="1471479475641" expanded="true" signature="371:889" placeholder="CREATE TABLE... IF" />
+                <marker date="1471479475641" expanded="true" signature="921:1473" placeholder="CREATE TABLE... IF" />
+                <marker date="1471479475641" expanded="true" signature="1506:1841" placeholder="CREATE TABLE... IF" />
+                <marker date="1471479475641" expanded="true" signature="1872:2219" placeholder="CREATE TABLE... IF" />
+                <marker date="1471479475641" expanded="true" signature="2250:2615" placeholder="CREATE TABLE... IF" />
+                <marker date="1471479475641" expanded="true" signature="2646:2970" placeholder="CREATE TABLE... IF" />
+                <marker date="1471479475641" expanded="true" signature="3001:3301" placeholder="CREATE TABLE... IF" />
+                <marker date="1471479475641" expanded="true" signature="3331:3830" placeholder="CREATE TABLE... IF" />
+                <marker date="1471479475641" expanded="true" signature="3860:4138" placeholder="CREATE TABLE... IF" />
+                <marker date="1471479475641" expanded="true" signature="4168:4460" placeholder="CREATE TABLE... IF" />
+                <marker date="1471479475641" expanded="true" signature="4490:4620" placeholder="CREATE TABLE... IF" />
+                <marker date="1471479475641" expanded="true" signature="4650:5157" placeholder="CREATE TABLE... IF" />
+                <marker date="1471479475641" expanded="true" signature="5210:5316" placeholder="INSERT INTO `auth_assignment`... " />
+                <marker date="1471479475641" expanded="true" signature="5345:5654" placeholder="INSERT INTO `auth_item`... " />
+                <marker date="1471479475641" expanded="true" signature="5684:5769" placeholder="INSERT INTO `auth_item_child`... " />
+                <marker date="1471479475641" expanded="true" signature="5800:6111" placeholder="INSERT INTO `users`... " />
+                <marker date="1471479475641" expanded="true" signature="6204:6225" placeholder="INSERT INTO `users`... " />
+                <marker date="1471479475641" expanded="true" signature="6204:6511" placeholder="INSERT INTO `users`... " />
+                <marker date="1471479475641" expanded="true" signature="6544:6658" placeholder="INSERT INTO `auth_assignment`... " />
+                <marker date="1471479475641" expanded="true" signature="6723:6815" placeholder="INSERT INTO `alerts_types`... " />
+                <marker date="1471479475641" expanded="true" signature="6845:6940" placeholder="INSERT INTO `alerts_events_assignment`... " />
+                <marker date="1471479475641" expanded="true" signature="6969:7241" placeholder="INSERT INTO `alerts_events`... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/basic/views/layouts/main.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.58441556">
+              <caret line="48" column="47" selection-start-line="48" selection-start-column="47" selection-end-line="48" selection-end-column="47" />
+              <folding>
+                <element signature="e#66#87#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -53,7 +99,6 @@
         <option value="$PROJECT_DIR$/basic/modules/admin/views/pages/alerts/alert.php" />
         <option value="$PROJECT_DIR$/basic/views/site/view_alerts.php" />
         <option value="$PROJECT_DIR$/basic/views/site/article.php" />
-        <option value="$PROJECT_DIR$/basic/views/layouts/main.php" />
         <option value="$PROJECT_DIR$/basic/interfaces/AlertType.php" />
         <option value="$PROJECT_DIR$/basic/modules/admin/controllers/pages/AlertsController.php" />
         <option value="$PROJECT_DIR$/basic/modules/admin/models/AlertsEvents.php" />
@@ -77,6 +122,7 @@
         <option value="$PROJECT_DIR$/basic/migrations/m160817_231431_deployment.php" />
         <option value="$PROJECT_DIR$/basic/models/RegisterForm.php" />
         <option value="$PROJECT_DIR$/basic/tests/unit/alerts_testTest.php" />
+        <option value="$PROJECT_DIR$/basic/views/layouts/main.php" />
       </list>
     </option>
   </component>
@@ -493,13 +539,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1301" height="744" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24980783" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24980783" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -765,16 +811,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/basic/views/layouts/main.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-19.375">
-          <caret line="31" column="44" selection-start-line="31" selection-start-column="44" selection-end-line="31" selection-end-column="44" />
-          <folding>
-            <element signature="e#66#87#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/basic/interfaces/AlertType.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-1.875">
@@ -986,9 +1022,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/basic/models/RegisterForm.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.36525974">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <folding>
+            <element signature="e#30#38#0#PHP" expanded="true" />
+            <marker date="1471481224931" expanded="true" signature="1548:1603" placeholder="SELECT COUNT... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic/controllers/SiteController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7305195">
+          <caret line="133" column="12" selection-start-line="133" selection-start-column="12" selection-end-line="133" selection-end-column="30" />
+          <folding>
+            <element signature="e#35#43#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/basic/migrations/m160817_231431_deployment.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8782467">
+        <state vertical-scroll-proportion="-19.416666">
           <caret line="186" column="8" selection-start-line="186" selection-start-column="8" selection-end-line="186" selection-end-column="8" />
           <folding>
             <marker date="1471479475641" expanded="true" signature="371:889" placeholder="CREATE TABLE... IF" />
@@ -1008,27 +1065,21 @@
             <marker date="1471479475641" expanded="true" signature="5684:5769" placeholder="INSERT INTO `auth_item_child`... " />
             <marker date="1471479475641" expanded="true" signature="5800:6111" placeholder="INSERT INTO `users`... " />
             <marker date="1471479475641" expanded="true" signature="6204:6225" placeholder="INSERT INTO `users`... " />
+            <marker date="1471479475641" expanded="true" signature="6204:6511" placeholder="INSERT INTO `users`... " />
+            <marker date="1471479475641" expanded="true" signature="6544:6658" placeholder="INSERT INTO `auth_assignment`... " />
+            <marker date="1471479475641" expanded="true" signature="6723:6815" placeholder="INSERT INTO `alerts_types`... " />
+            <marker date="1471479475641" expanded="true" signature="6845:6940" placeholder="INSERT INTO `alerts_events_assignment`... " />
+            <marker date="1471479475641" expanded="true" signature="6969:7241" placeholder="INSERT INTO `alerts_events`... " />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/basic/models/RegisterForm.php">
+    <entry file="file://$PROJECT_DIR$/basic/views/layouts/main.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.36525974">
-          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        <state vertical-scroll-proportion="0.58441556">
+          <caret line="48" column="47" selection-start-line="48" selection-start-column="47" selection-end-line="48" selection-end-column="47" />
           <folding>
-            <element signature="e#30#38#0#PHP" expanded="true" />
-            <marker date="1471481224931" expanded="true" signature="1548:1603" placeholder="SELECT COUNT... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic/controllers/SiteController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7305195">
-          <caret line="133" column="12" selection-start-line="133" selection-start-column="12" selection-end-line="133" selection-end-column="30" />
-          <folding>
-            <element signature="e#35#43#0#PHP" expanded="true" />
+            <element signature="e#66#87#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
