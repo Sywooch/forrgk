@@ -4,6 +4,7 @@ namespace app\modules\admin\models;
 
 use Yii;
 use yii\helpers\Url;
+use yii\helpers\Html;
 
 /**
  * This is the model class for table "articles".
