@@ -113,7 +113,7 @@ use yii\helpers\Url;
                     var $tr = $('<tr><td></td><td></td><td></td><td></td><td></td></tr>');
 
                     $tr.find('td:eq(0)').text(data.items[i].id);
-                    $tr.find('td:eq(1)').append($('<a></a>').attr('href', '<?php echo Url::to(['site/article']);?>&id='+data.items[i].id).text(data.items[i].title)     );
+                    $tr.find('td:eq(1)').append($('<a></a>').attr('href', '<?php echo Url::to(['/site/article']);?>&id='+data.items[i].id).text(data.items[i].title)     );
                     $tr.find('td:eq(2)').text(data.items[i].author_name);
                     $tr.find('td:eq(3)').text(data.items[i].post_date);
                     $tr.find('td:eq(4)').html($('<a class="btn btn-info btn-sm" title="Редактировать" href="<?php echo Url::to(['pages/article']);?>&id='+data.items[i].id+'"><i class="fa fa-pencil"></i></a>&nbsp;<a href="javascript:void(0);" class="btn btn-danger remove-btn btn-sm" data-id="'+data.items[i].id+'"><i class="fa fa-trash"></i></a>'));
