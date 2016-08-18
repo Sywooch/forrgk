@@ -14,6 +14,10 @@ use yii\base\Event;
  */
 class RegisterForm extends Model
 {
+    public $username;
+    public $pass1;
+    public $pass2;
+    public $email;
 
     public function rules() {
         return [
